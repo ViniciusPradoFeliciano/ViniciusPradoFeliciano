@@ -26,8 +26,8 @@
 <!-- Links -->
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini_brois/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/viniciuspradofeliciano)
-[![DevCommunity](https://img.shields.io/badge/DevComunnity-0077B5?style=for-the-badge&logo=devcommunity&logoColor=white)]((https://dev.to/vini_feliciano))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuspradofeliciano/)
+[![DevCommunity](https://img.shields.io/badge/DevComunnity-0077B5?style=for-the-badge&logo=devcommunity&logoColor=white)](https://dev.to/vini_feliciano)
 
 <!-- GithubStats -->
 ![ViniciusPradoFeliciano GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusPradoFeliciano&show_icons=true&theme=gotham)
