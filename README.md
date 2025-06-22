@@ -10,8 +10,6 @@
   Hi 👋, I'm Vinicius! A passionate Computer Science student from Brazil.
 
   - 🌱 I’m currently studying Computer Science at UNIP 
-
-  - 🔭 I am looking for my first job opportunity.
 </p>
 
 <!-- Dropdown -->
