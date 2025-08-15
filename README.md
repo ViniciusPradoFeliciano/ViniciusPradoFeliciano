@@ -28,7 +28,7 @@
 [![DevCommunity](https://img.shields.io/badge/DevComunnity-0077B5?style=for-the-badge&logo=devcommunity&logoColor=white)](https://dev.to/vini_feliciano)
 
 <!-- GithubStats -->
-[![ViniciusPradoFeliciano GitHub stats]](https://github-readme-stats.vercel.app/api?username=ViniciusPradoFeliciano&show_icons=true&theme=gotham)
+![ViniciusPradoFeliciano GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusPradoFeliciano&show_icons=true&theme=gotham)
 
 <!-- GIF -->
 <p align="left">
