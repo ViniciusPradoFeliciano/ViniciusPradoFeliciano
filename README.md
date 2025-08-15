@@ -27,9 +27,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuspradofeliciano/)
 [![DevCommunity](https://img.shields.io/badge/DevComunnity-0077B5?style=for-the-badge&logo=devcommunity&logoColor=white)](https://dev.to/vini_feliciano)
 
-<!-- GithubStats -->
-![ViniciusPradoFeliciano GitHub stats](https://github-readme-stats.verce1.app/api?username=ViniciusPradoFeliciano)
-
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
