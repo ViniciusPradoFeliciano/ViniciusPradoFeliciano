@@ -27,7 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuspradofeliciano/)
 [![DevCommunity](https://img.shields.io/badge/DevComunnity-0077B5?style=for-the-badge&logo=devcommunity&logoColor=white)](https://dev.to/vini_feliciano)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusPradoFeliciano&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusPradoFeliciano&show_icons=true&theme=blue-green)
 
 <!-- GIF -->
 <p align="left">
